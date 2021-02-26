@@ -1,2 +1,2 @@
 # hello-world
-test
+Hello there, this is my first commit.
